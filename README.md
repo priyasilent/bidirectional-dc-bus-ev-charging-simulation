@@ -35,3 +35,22 @@ This project supports preparation for research in bidirectional wireless power t
 - Charging vs discharging power-flow plot
 - Efficiency-loss and thermal-loading trend
 - Short technical report
+
+- ## Generated Results
+
+The simulation generates:
+
+- `figures/architecture_diagram.png`
+- `figures/voltage_response.png`
+- `figures/current_response.png`
+- `figures/power_flow_charging_discharging.png`
+- `figures/efficiency_loss_trend.png`
+- `figures/thermal_loading_trend.png`
+- `data/simulation_results.csv`
+- `data/simulation_assumptions.csv`
+
+## Key Interpretation
+
+The simulation compares charging and discharging behaviour in a simplified bidirectional DC bus architecture. It tracks DC bus voltage, current direction, power-flow behaviour, estimated converter losses and basic thermal-loading trends.
+
+The purpose is to support system-level reasoning for high-power EV charging, distributed DC systems, bidirectional charging and reliability-aware infrastructure analysis.
