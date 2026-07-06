@@ -54,3 +54,8 @@ The simulation generates:
 The simulation compares charging and discharging behaviour in a simplified bidirectional DC bus architecture. It tracks DC bus voltage, current direction, power-flow behaviour, estimated converter losses and basic thermal-loading trends.
 
 The purpose is to support system-level reasoning for high-power EV charging, distributed DC systems, bidirectional charging and reliability-aware infrastructure analysis.
+
+## Technical Report
+
+A short technical report is available here:  
+[Bidirectional DC Bus EV Charging Architecture Simulation Report](report/bidirectional_dc_bus_ev_charging_report.md)
