@@ -1,1 +1,10 @@
-
+parameter,value
+DC bus nominal voltage,800 V
+Bus resistance,0.015 ohm
+Battery capacity,500 kWh
+Initial SOC,35%
+Charging power,200 kW
+Discharging power,80 kW
+Ambient temperature,25 C
+Thermal resistance,1.8 C/kW
+Thermal time constant,900 s
